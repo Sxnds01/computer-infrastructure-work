@@ -1,6 +1,7 @@
-# computer-infrastructure-work
+# Computer Infrastructure Tasks and Project
 ---
-### This repository contains the tasks and project associated with the Computer Infrastructure module
+## Overview
+This repository contains the tasks and project associated with the Computer Infrastructure module. The tasks are specifically selected to become more familar with using the command line to move and manipulate data and write scripts. With this knowledge, the user should be able to carry out the project which is to automate a bash script to run daily and push new data into a repository regularly.
 
 # References
 1. Basic Linux commands: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
