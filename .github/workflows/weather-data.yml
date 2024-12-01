@@ -1,0 +1,43 @@
+name: Daily Weather Data Processing
+
+on:
+  schedule:
+    # Run the workflow daily at 10:00 UTC
+    - cron: "0 10 * * *"
+
+  workflow_dispatch: # Allows manual triggering of the workflow without inputs
+
+permissions:
+  contents: write
+
+jobs:
+  process_weather_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12.1"
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch and process weather data
+        run: |
+          chmod +x weather.sh
+          ./weather.sh
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data2/timestamps/weather/*.json weather_data_combined.csv temperature_trend.png
+          git commit -m "Update weather data and trend graph [CI skip]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
