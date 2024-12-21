@@ -252,3 +252,13 @@ Athenry,8,05n,Rain showers,"""Rain shower""",17,-,S,180, 95 , 0.2 ,1014,Friday,2
 Athenry,9,05n,Rain showers,"""Moderate Rain shower""",22,-,SW,225, 94 , 2.5 ,1013,Friday,20-12-2024,07:00,20241220_100834.json,2024-12-20 07:00:00
 Athenry,9,46n,Light rain ,"""Light rain """,24,-,SW,225, 92 , 1.4 ,1012,Friday,20-12-2024,08:00,20241220_100834.json,2024-12-20 08:00:00
 Athenry,10,05d,Rain showers,"""Rain shower""",19,44,W,270, 95 , 0.6 ,1012,Friday,20-12-2024,09:00,20241220_100834.json,2024-12-20 09:00:00
+Athenry,10,04n,Cloudy,"""Cloudy""",22,41,SW,225, 81 , 0.0 ,1014,Saturday,21-12-2024,00:00,20241221_100729.json,2024-12-21 00:00:00
+Athenry,10,05n,Rain showers,"""Rain shower""",26,-,SW,225, 85 , 0.01 ,1012,Saturday,21-12-2024,01:00,20241221_100729.json,2024-12-21 01:00:00
+Athenry,10,46n,Light rain ,"""Light rain """,28,50,SW,225, 95 , 1.5 ,1011,Saturday,21-12-2024,02:00,20241221_100729.json,2024-12-21 02:00:00
+Athenry,10,46n,Light rain ,"""Moderate Drizzle """,33,57,SW,225, 94 , 0.7 ,1010,Saturday,21-12-2024,03:00,20241221_100729.json,2024-12-21 03:00:00
+Athenry,11,46n,Light rain ,"""Recent Drizzle """,30,57,SW,225, 94 , 0.01 ,1009,Saturday,21-12-2024,04:00,20241221_100729.json,2024-12-21 04:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",31,56,W,270, 96 , 0.3 ,1008,Saturday,21-12-2024,05:00,20241221_100729.json,2024-12-21 05:00:00
+Athenry,11,41n,Heavy rain showers,"""Heavy rain shower""",26,57,W,270, 96 , 3.9 ,1008,Saturday,21-12-2024,06:00,20241221_100729.json,2024-12-21 06:00:00
+Athenry,11,46n,Light rain ,"""Recent Drizzle """,33,59,W,270, 82 , 0.1 ,1008,Saturday,21-12-2024,07:00,20241221_100729.json,2024-12-21 07:00:00
+Athenry,10,15n,Fog / Mist,"""Mist""",24,61,W,270, 75 , 0.0 ,1008,Saturday,21-12-2024,08:00,20241221_100729.json,2024-12-21 08:00:00
+Athenry,10,15d,Fog / Mist,"""Mist""",22,44,W,270, 75 , 0.0 ,1009,Saturday,21-12-2024,09:00,20241221_100729.json,2024-12-21 09:00:00
