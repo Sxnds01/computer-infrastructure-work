@@ -402,3 +402,13 @@ Athenry,-1,04n,Cloudy,"""Cloudy""",4,-,SE,135, 94 , 0.0 ,1016,Saturday,04-01-202
 Athenry,-1,04n,Cloudy,"""Cloudy""",6,-,NE,45, 95 , 0.0 ,1015,Saturday,04-01-2025,07:00,20250104_100740.json,2025-01-04 07:00:00
 Athenry,-1,04n,Cloudy,"""Cloudy""",9,-,E,90, 92 , 0.0 ,1014,Saturday,04-01-2025,08:00,20250104_100740.json,2025-01-04 08:00:00
 Athenry,0,04d,Cloudy,"""Cloudy""",9,-,E,90, 90 , 0.0 ,1014,Saturday,04-01-2025,09:00,20250104_100740.json,2025-01-04 09:00:00
+Athenry,1,47n,Light sleet,"""Light sleet""",13,-,NE,45, 96 , 0.4 ,996,Sunday,05-01-2025,00:00,20250105_100730.json,2025-01-05 00:00:00
+Athenry,1,09n,Rain,"""Moderate rain """,13,-,NE,45, 96 , 0.5 ,995,Sunday,05-01-2025,01:00,20250105_100730.json,2025-01-05 01:00:00
+Athenry,1,47n,Light sleet,"""Light sleet""",13,-,NE,45, 96 , 0.3 ,994,Sunday,05-01-2025,02:00,20250105_100730.json,2025-01-05 02:00:00
+Athenry,1,51n,Light Hail Shower ,"""Ice Pellets""",15,-,NE,45, 95 , 0.2 ,992,Sunday,05-01-2025,03:00,20250105_100730.json,2025-01-05 03:00:00
+Athenry,1,46n,Light rain ,"""Recent Drizzle """,15,-,NE,45, 95 , 0.01 ,991,Sunday,05-01-2025,04:00,20250105_100730.json,2025-01-05 04:00:00
+Athenry,1,04n,Cloudy,"""Cloudy""",17,-,NE,45, 93 , 0.0 ,991,Sunday,05-01-2025,05:00,20250105_100730.json,2025-01-05 05:00:00
+Athenry,2,05n,Rain showers,"""Rain shower""",17,-,NE,45, 92 , 0.01 ,990,Sunday,05-01-2025,06:00,20250105_100730.json,2025-01-05 06:00:00
+Athenry,2,46n,Light rain ,"""Light rain """,15,-,NE,45, 92 , 0.01 ,991,Sunday,05-01-2025,07:00,20250105_100730.json,2025-01-05 07:00:00
+Athenry,2,46n,Light rain ,"""Light rain """,15,-,NE,45, 92 , 0.2 ,990,Sunday,05-01-2025,08:00,20250105_100730.json,2025-01-05 08:00:00
+Athenry,2,46d,Light rain ,"""Light rain """,13,-,NE,45, 92 , 0.01 ,990,Sunday,05-01-2025,09:00,20250105_100730.json,2025-01-05 09:00:00
