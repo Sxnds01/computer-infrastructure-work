@@ -572,3 +572,13 @@ Athenry,6,05n,Rain showers,"""Rain shower""",4,-,SW,225, 99 , 0.1 ,1012,Tuesday,
 Athenry,5,15n,Fog / Mist,"""Fog thickening""",2,-,SW,225, 99 , 0.1 ,1012,Tuesday,21-01-2025,07:00,20250121_100830.json,2025-01-21 07:00:00
 Athenry,5,05n,Rain showers,"""Rain shower""",7,-,S,180, 100 , 0.01 ,1011,Tuesday,21-01-2025,08:00,20250121_100830.json,2025-01-21 08:00:00
 Athenry,4,15d,Fog / Mist,"""Fog""",4,-,S,180, 99 , 0.1 ,1012,Tuesday,21-01-2025,09:00,20250121_100830.json,2025-01-21 09:00:00
+Athenry,3,15n,Fog / Mist,"""Fog""",4,-,S,180, 99 , 0.0 ,1008,Wednesday,22-01-2025,00:00,20250122_100716.json,2025-01-22 00:00:00
+Athenry,3,15n,Fog / Mist,"""Fog thinning""",4,-,SW,225, 99 , 0.0 ,1007,Wednesday,22-01-2025,01:00,20250122_100716.json,2025-01-22 01:00:00
+Athenry,4,15n,Fog / Mist,"""Fog thickening""",6,-,SW,225, 99 , 0.0 ,1007,Wednesday,22-01-2025,02:00,20250122_100716.json,2025-01-22 02:00:00
+Athenry,3,15n,Fog / Mist,"""Fog thinning""",-,-,,0, 99 , 0.0 ,1007,Wednesday,22-01-2025,03:00,20250122_100716.json,2025-01-22 03:00:00
+Athenry,2,15n,Fog / Mist,"""Fog thickening""",2,-,S,180, 99 , 0.1 ,1006,Wednesday,22-01-2025,04:00,20250122_100716.json,2025-01-22 04:00:00
+Athenry,1,15n,Fog / Mist,"""Fog thinning""",2,-,S,180, 99 , 0.0 ,1006,Wednesday,22-01-2025,05:00,20250122_100716.json,2025-01-22 05:00:00
+Athenry,0,15n,Fog / Mist,"""Fog thinning""",2,-,S,180, 99 , 0.0 ,1006,Wednesday,22-01-2025,06:00,20250122_100716.json,2025-01-22 06:00:00
+Athenry,0,15n,Fog / Mist,"""Fog""",2,-,SE,135, 99 , 0.0 ,1006,Wednesday,22-01-2025,07:00,20250122_100716.json,2025-01-22 07:00:00
+Athenry,0,15n,Fog / Mist,"""Fog thickening""",4,-,SE,135, 99 , 0.0 ,1006,Wednesday,22-01-2025,08:00,20250122_100716.json,2025-01-22 08:00:00
+Athenry,0,15d,Fog / Mist,"""Fog thinning""",4,-,S,180, 99 , 0.0 ,1006,Wednesday,22-01-2025,09:00,20250122_100716.json,2025-01-22 09:00:00
