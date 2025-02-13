@@ -792,3 +792,13 @@ Athenry,5,04n,Cloudy,"""Cloudy""",17,-,E,90, 84 , 0.0 ,1017,Wednesday,12-02-2025
 Athenry,5,04n,Cloudy,"""Cloudy""",20,-,SE,135, 83 , 0.0 ,1017,Wednesday,12-02-2025,07:00,20250212_100854.json,2025-02-12 07:00:00
 Athenry,5,46d,Light rain ,"""Light rain """,15,-,SE,135, 83 , 0.01 ,1017,Wednesday,12-02-2025,08:00,20250212_100854.json,2025-02-12 08:00:00
 Athenry,5,05d,Rain showers,"""Rain shower""",17,-,SE,135, 83 , 0.01 ,1018,Wednesday,12-02-2025,09:00,20250212_100854.json,2025-02-12 09:00:00
+Athenry,5,04n,Cloudy,"""Cloudy""",20,-,SE,135, 81 , 0.0 ,1020,Thursday,13-02-2025,00:00,20250213_100845.json,2025-02-13 00:00:00
+Athenry,5,04n,Cloudy,"""Cloudy""",20,-,E,90, 81 , 0.0 ,1020,Thursday,13-02-2025,01:00,20250213_100845.json,2025-02-13 01:00:00
+Athenry,5,46n,Light rain ,"""Light rain """,19,-,E,90, 87 , 0.2 ,1020,Thursday,13-02-2025,02:00,20250213_100845.json,2025-02-13 02:00:00
+Athenry,4,46n,Light rain ,"""Light rain """,15,-,E,90, 89 , 0.6 ,1020,Thursday,13-02-2025,03:00,20250213_100845.json,2025-02-13 03:00:00
+Athenry,4,46n,Light rain ,"""Light Drizzle """,17,-,E,90, 88 , 0.2 ,1020,Thursday,13-02-2025,04:00,20250213_100845.json,2025-02-13 04:00:00
+Athenry,4,40n,Light rain showers,"""Recent Rain""",15,-,E,90, 91 , 0.1 ,1020,Thursday,13-02-2025,05:00,20250213_100845.json,2025-02-13 05:00:00
+Athenry,4,05n,Rain showers,"""Rain shower""",15,-,E,90, 89 , 0.01 ,1020,Thursday,13-02-2025,06:00,20250213_100845.json,2025-02-13 06:00:00
+Athenry,4,05n,Rain showers,"""Rain shower""",15,-,E,90, 90 , 0.1 ,1020,Thursday,13-02-2025,07:00,20250213_100845.json,2025-02-13 07:00:00
+Athenry,4,40d,Light rain showers,"""Recent Rain""",13,-,E,90, 85 , 0.1 ,1020,Thursday,13-02-2025,08:00,20250213_100845.json,2025-02-13 08:00:00
+Athenry,5,04d,Cloudy,"""Cloudy""",19,-,SE,135, 80 , 0.0 ,1020,Thursday,13-02-2025,09:00,20250213_100845.json,2025-02-13 09:00:00
