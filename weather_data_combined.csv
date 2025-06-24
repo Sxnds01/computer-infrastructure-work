@@ -2178,3 +2178,14 @@ Athenry,13,04d,Cloudy,"""Cloudy""",19,-,W,270, 75 , 0.0 ,1013,Monday,23-06-2025,
 Athenry,13,04d,Cloudy,"""Cloudy""",19,-,W,270, 70 , 0.0 ,1013,Monday,23-06-2025,08:00,20250623_101102.json,2025-06-23 08:00:00
 Athenry,14,04d,Cloudy,"""Cloudy""",19,-,W,270, 74 , 0.0 ,1014,Monday,23-06-2025,09:00,20250623_101102.json,2025-06-23 09:00:00
 Athenry,14,46d,Light rain ,"""Recent Drizzle """,15,-,W,270, 69 , 0.01 ,1014,Monday,23-06-2025,10:00,20250623_101102.json,2025-06-23 10:00:00
+Athenry,15,05n,Rain showers,"""Rain shower""",15,-,SW,225, 96 , 0.2 ,1010,Tuesday,24-06-2025,00:00,20250624_101049.json,2025-06-24 00:00:00
+Athenry,15,46n,Light rain ,"""Recent Drizzle """,9,-,SW,225, 97 , 0.01 ,1010,Tuesday,24-06-2025,01:00,20250624_101049.json,2025-06-24 01:00:00
+Athenry,15,46n,Light rain ,"""Light rain """,19,-,SW,225, 97 , 0.8 ,1009,Tuesday,24-06-2025,02:00,20250624_101049.json,2025-06-24 02:00:00
+Athenry,15,46n,Light rain ,"""Heavy Drizzle """,24,54,SW,225, 97 , 1.1 ,1009,Tuesday,24-06-2025,03:00,20250624_101049.json,2025-06-24 03:00:00
+Athenry,15,46n,Light rain ,"""Moderate Drizzle """,20,46,SW,225, 97 , 0.3 ,1008,Tuesday,24-06-2025,04:00,20250624_101049.json,2025-06-24 04:00:00
+Athenry,15,46d,Light rain ,"""Moderate Drizzle """,20,43,W,270, 97 , 0.6 ,1008,Tuesday,24-06-2025,05:00,20250624_101049.json,2025-06-24 05:00:00
+Athenry,15,46d,Light rain ,"""Heavy Drizzle """,15,39,W,270, 98 , 1.0 ,1008,Tuesday,24-06-2025,06:00,20250624_101049.json,2025-06-24 06:00:00
+Athenry,15,46d,Light rain ,"""Heavy Drizzle """,15,-,W,270, 97 , 1.0 ,1008,Tuesday,24-06-2025,07:00,20250624_101049.json,2025-06-24 07:00:00
+Athenry,15,46d,Light rain ,"""Moderate Drizzle """,17,-,W,270, 97 , 0.7 ,1008,Tuesday,24-06-2025,08:00,20250624_101049.json,2025-06-24 08:00:00
+Athenry,15,46d,Light rain ,"""Light rain """,19,-,W,270, 97 , 0.6 ,1008,Tuesday,24-06-2025,09:00,20250624_101049.json,2025-06-24 09:00:00
+Athenry,16,05d,Rain showers,"""Rain shower""",19,41,W,270, 97 , 0.3 ,1008,Tuesday,24-06-2025,10:00,20250624_101049.json,2025-06-24 10:00:00
