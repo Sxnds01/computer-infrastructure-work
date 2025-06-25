@@ -2189,3 +2189,14 @@ Athenry,15,46d,Light rain ,"""Heavy Drizzle """,15,-,W,270, 97 , 1.0 ,1008,Tuesd
 Athenry,15,46d,Light rain ,"""Moderate Drizzle """,17,-,W,270, 97 , 0.7 ,1008,Tuesday,24-06-2025,08:00,20250624_101049.json,2025-06-24 08:00:00
 Athenry,15,46d,Light rain ,"""Light rain """,19,-,W,270, 97 , 0.6 ,1008,Tuesday,24-06-2025,09:00,20250624_101049.json,2025-06-24 09:00:00
 Athenry,16,05d,Rain showers,"""Rain shower""",19,41,W,270, 97 , 0.3 ,1008,Tuesday,24-06-2025,10:00,20250624_101049.json,2025-06-24 10:00:00
+Athenry,14,04n,Cloudy,"""Cloudy""",9,-,W,270, 83 , 0.0 ,1010,Wednesday,25-06-2025,00:00,20250625_101029.json,2025-06-25 00:00:00
+Athenry,14,05n,Rain showers,"""Rain shower""",6,-,W,270, 89 , 0.1 ,1009,Wednesday,25-06-2025,01:00,20250625_101029.json,2025-06-25 01:00:00
+Athenry,14,05n,Rain showers,"""Rain shower""",6,-,SW,225, 92 , 0.01 ,1009,Wednesday,25-06-2025,02:00,20250625_101029.json,2025-06-25 02:00:00
+Athenry,13,46n,Light rain ,"""Recent Drizzle """,6,-,W,270, 94 , 0.3 ,1010,Wednesday,25-06-2025,03:00,20250625_101029.json,2025-06-25 03:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",9,-,SW,225, 95 , 0.7 ,1010,Wednesday,25-06-2025,04:00,20250625_101029.json,2025-06-25 04:00:00
+Athenry,12,46d,Light rain ,"""Light rain """,4,-,W,270, 96 , 1.0 ,1009,Wednesday,25-06-2025,05:00,20250625_101029.json,2025-06-25 05:00:00
+Athenry,12,46d,Light rain ,"""Recent Drizzle """,4,-,W,270, 96 , 0.2 ,1009,Wednesday,25-06-2025,06:00,20250625_101029.json,2025-06-25 06:00:00
+Athenry,13,04d,Cloudy,"""Cloudy""",6,-,SE,135, 96 , 0.1 ,1009,Wednesday,25-06-2025,07:00,20250625_101029.json,2025-06-25 07:00:00
+Athenry,13,04d,Cloudy,"""Cloudy""",6,-,S,180, 93 , 0.0 ,1009,Wednesday,25-06-2025,08:00,20250625_101029.json,2025-06-25 08:00:00
+Athenry,14,04d,Cloudy,"""Cloudy""",9,-,S,180, 90 , 0.0 ,1009,Wednesday,25-06-2025,09:00,20250625_101029.json,2025-06-25 09:00:00
+Athenry,14,15d,Fog / Mist,"""Mist""",9,-,S,180, 92 , 0.0 ,1009,Wednesday,25-06-2025,10:00,20250625_101029.json,2025-06-25 10:00:00
