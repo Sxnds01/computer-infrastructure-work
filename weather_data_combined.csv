@@ -2868,3 +2868,14 @@ Athenry,13,46d,Light rain ,"""Light rain """,13,-,SE,135, 94 , 0.6 ,995,Saturday
 Athenry,13,46d,Light rain ,"""Moderate Drizzle """,15,-,SE,135, 96 , 1.5 ,993,Saturday,30-08-2025,08:00,20250830_100806.json,2025-08-30 08:00:00
 Athenry,13,46d,Light rain ,"""Light rain """,15,-,SE,135, 97 , 2.8 ,992,Saturday,30-08-2025,09:00,20250830_100806.json,2025-08-30 09:00:00
 Athenry,14,46d,Light rain ,"""Recent Drizzle """,15,-,SE,135, 95 , 0.2 ,990,Saturday,30-08-2025,10:00,20250830_100806.json,2025-08-30 10:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",20,43,S,180, 91 , 0.1 ,989,Sunday,31-08-2025,00:00,20250831_100819.json,2025-08-31 00:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",22,-,S,180, 93 , 1.5 ,989,Sunday,31-08-2025,01:00,20250831_100819.json,2025-08-31 01:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",22,-,SW,225, 93 , 2.1 ,989,Sunday,31-08-2025,02:00,20250831_100819.json,2025-08-31 02:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",24,44,SW,225, 92 , 1.5 ,989,Sunday,31-08-2025,03:00,20250831_100819.json,2025-08-31 03:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",26,46,SW,225, 91 , 1.1 ,988,Sunday,31-08-2025,04:00,20250831_100819.json,2025-08-31 04:00:00
+Athenry,12,05n,Rain showers,"""Rain shower""",26,-,S,180, 91 , 0.1 ,988,Sunday,31-08-2025,05:00,20250831_100819.json,2025-08-31 05:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",28,-,S,180, 93 , 0.8 ,988,Sunday,31-08-2025,06:00,20250831_100819.json,2025-08-31 06:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",28,48,S,180, 92 , 1.8 ,988,Sunday,31-08-2025,07:00,20250831_100819.json,2025-08-31 07:00:00
+Athenry,13,05d,Rain showers,"""Rain shower""",26,46,S,180, 89 , 0.5 ,988,Sunday,31-08-2025,08:00,20250831_100819.json,2025-08-31 08:00:00
+Athenry,13,05d,Rain showers,"""Rain shower""",30,-,S,180, 88 , 0.1 ,988,Sunday,31-08-2025,09:00,20250831_100819.json,2025-08-31 09:00:00
+Athenry,14,04d,Cloudy,"""Cloudy""",28,50,SW,225, 84 , 0.0 ,988,Sunday,31-08-2025,10:00,20250831_100819.json,2025-08-31 10:00:00
