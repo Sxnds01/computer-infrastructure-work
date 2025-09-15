@@ -3033,3 +3033,14 @@ Athenry,10,04d,Cloudy,"""Cloudy""",13,-,SE,135, 86 , 0.0 ,1003,Sunday,14-09-2025
 Athenry,10,05d,Rain showers,"""Rain shower""",9,-,SE,135, 88 , 0.01 ,1002,Sunday,14-09-2025,08:00,20250914_100730.json,2025-09-14 08:00:00
 Athenry,10,05d,Rain showers,"""Rain shower""",17,-,E,90, 92 , 0.2 ,999,Sunday,14-09-2025,09:00,20250914_100730.json,2025-09-14 09:00:00
 Athenry,12,40d,Light rain showers,"""Recent Rain""",19,-,SE,135, 90 , 0.3 ,997,Sunday,14-09-2025,10:00,20250914_100730.json,2025-09-14 10:00:00
+Athenry,14,46n,Light rain ,"""Recent Drizzle """,19,48,W,270, 89 , 0.1 ,990,Monday,15-09-2025,00:00,20250915_100957.json,2025-09-15 00:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",30,50,W,270, 93 , 0.9 ,991,Monday,15-09-2025,01:00,20250915_100957.json,2025-09-15 01:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",30,59,W,270, 94 , 0.2 ,992,Monday,15-09-2025,02:00,20250915_100957.json,2025-09-15 02:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",28,63,W,270, 94 , 0.4 ,993,Monday,15-09-2025,03:00,20250915_100957.json,2025-09-15 03:00:00
+Athenry,13,46n,Light rain ,"""Recent Drizzle """,26,63,W,270, 86 , 0.2 ,994,Monday,15-09-2025,04:00,20250915_100957.json,2025-09-15 04:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",26,56,W,270, 84 , 0.01 ,995,Monday,15-09-2025,05:00,20250915_100957.json,2025-09-15 05:00:00
+Athenry,13,04n,Cloudy,"""Cloudy""",22,56,W,270, 86 , 0.0 ,995,Monday,15-09-2025,06:00,20250915_100957.json,2025-09-15 06:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",26,50,W,270, 88 , 0.01 ,996,Monday,15-09-2025,07:00,20250915_100957.json,2025-09-15 07:00:00
+Athenry,13,46d,Light rain ,"""Recent Drizzle """,24,48,W,270, 85 , 0.01 ,997,Monday,15-09-2025,08:00,20250915_100957.json,2025-09-15 08:00:00
+Athenry,13,40d,Light rain showers,"""Recent Rain""",24,50,W,270, 85 , 0.3 ,999,Monday,15-09-2025,09:00,20250915_100957.json,2025-09-15 09:00:00
+Athenry,13,05d,Rain showers,"""Rain shower""",28,59,W,270, 86 , 0.1 ,999,Monday,15-09-2025,10:00,20250915_100957.json,2025-09-15 10:00:00
