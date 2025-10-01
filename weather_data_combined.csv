@@ -3209,3 +3209,14 @@ Athenry,14,46d,Light rain ,"""Recent Drizzle """,11,-,S,180, 95 , 0.1 ,1020,Tues
 Athenry,14,46d,Light rain ,"""Recent Drizzle """,9,-,S,180, 94 , 0.5 ,1020,Tuesday,30-09-2025,08:00,20250930_100945.json,2025-09-30 08:00:00
 Athenry,14,04d,Cloudy,"""Cloudy""",7,-,S,180, 92 , 0.0 ,1020,Tuesday,30-09-2025,09:00,20250930_100945.json,2025-09-30 09:00:00
 Athenry,15,05d,Rain showers,"""Rain shower""",15,-,S,180, 91 , 0.1 ,1020,Tuesday,30-09-2025,10:00,20250930_100945.json,2025-09-30 10:00:00
+Athenry,15,46n,Light rain ,"""Moderate Drizzle """,17,-,S,180, 96 , 0.2 ,1020,Wednesday,01-10-2025,00:00,20251001_100954.json,2025-10-01 00:00:00
+Athenry,15,46n,Light rain ,"""Light rain """,17,-,S,180, 94 , 0.4 ,1019,Wednesday,01-10-2025,01:00,20251001_100954.json,2025-10-01 01:00:00
+Athenry,15,40n,Light rain showers,"""Recent Rain""",17,-,S,180, 93 , 0.3 ,1019,Wednesday,01-10-2025,02:00,20251001_100954.json,2025-10-01 02:00:00
+Athenry,15,46n,Light rain ,"""Recent Drizzle """,19,-,S,180, 91 , 0.01 ,1019,Wednesday,01-10-2025,03:00,20251001_100954.json,2025-10-01 03:00:00
+Athenry,15,46n,Light rain ,"""Light rain """,17,-,S,180, 91 , 0.01 ,1019,Wednesday,01-10-2025,04:00,20251001_100954.json,2025-10-01 04:00:00
+Athenry,15,46n,Light rain ,"""Moderate Drizzle """,19,-,S,180, 91 , 0.2 ,1019,Wednesday,01-10-2025,05:00,20251001_100954.json,2025-10-01 05:00:00
+Athenry,15,46n,Light rain ,"""Recent Drizzle """,11,-,S,180, 90 , 0.01 ,1019,Wednesday,01-10-2025,06:00,20251001_100954.json,2025-10-01 06:00:00
+Athenry,15,04n,Cloudy,"""Cloudy""",19,-,SW,225, 88 , 0.0 ,1019,Wednesday,01-10-2025,07:00,20251001_100954.json,2025-10-01 07:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",19,-,S,180, 88 , 0.0 ,1019,Wednesday,01-10-2025,08:00,20251001_100954.json,2025-10-01 08:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",19,-,SW,225, 90 , 0.0 ,1019,Wednesday,01-10-2025,09:00,20251001_100954.json,2025-10-01 09:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",17,-,SW,225, 92 , 0.0 ,1019,Wednesday,01-10-2025,10:00,20251001_100954.json,2025-10-01 10:00:00
