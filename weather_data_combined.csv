@@ -3242,3 +3242,14 @@ Athenry,12,46n,Light rain ,"""Light rain """,15,-,S,180, 91 , 0.1 ,1002,Friday,0
 Athenry,11,09d,Rain,"""Moderate rain """,15,-,S,180, 93 , 1.9 ,1000,Friday,03-10-2025,08:00,20251003_100933.json,2025-10-03 08:00:00
 Athenry,11,10d,Heavy rain ,"""Heavy rain """,19,-,SE,135, 95 , 5.5 ,997,Friday,03-10-2025,09:00,20251003_100933.json,2025-10-03 09:00:00
 Athenry,12,09d,Rain,"""Moderate rain """,26,50,SE,135, 94 , 8.4 ,993,Friday,03-10-2025,10:00,20251003_100933.json,2025-10-03 10:00:00
+Athenry,10,40n,Light rain showers,"""Recent Rain""",35,65,W,270, 73 , 0.1 ,992,Saturday,04-10-2025,00:00,20251004_100752.json,2025-10-04 00:00:00
+Athenry,9,40n,Light rain showers,"""Recent Rain""",26,76,W,270, 83 , 0.3 ,993,Saturday,04-10-2025,01:00,20251004_100752.json,2025-10-04 01:00:00
+Athenry,9,05n,Rain showers,"""Rain shower""",22,57,W,270, 85 , 0.5 ,994,Saturday,04-10-2025,02:00,20251004_100752.json,2025-10-04 02:00:00
+Athenry,9,05n,Rain showers,"""Rain shower""",31,61,W,270, 78 , 0.01 ,994,Saturday,04-10-2025,03:00,20251004_100752.json,2025-10-04 03:00:00
+Athenry,8,05n,Rain showers,"""Moderate Rain shower""",26,65,W,270, 90 , 1.1 ,995,Saturday,04-10-2025,04:00,20251004_100752.json,2025-10-04 04:00:00
+Athenry,8,05n,Rain showers,"""Moderate Rain shower""",20,52,W,270, 88 , 0.5 ,996,Saturday,04-10-2025,05:00,20251004_100752.json,2025-10-04 05:00:00
+Athenry,10,46n,Light rain ,"""Recent Drizzle """,30,59,W,270, 68 , 0.01 ,996,Saturday,04-10-2025,06:00,20251004_100752.json,2025-10-04 06:00:00
+Athenry,10,05n,Rain showers,"""Rain shower""",28,59,W,270, 71 , 0.01 ,997,Saturday,04-10-2025,07:00,20251004_100752.json,2025-10-04 07:00:00
+Athenry,11,04d,Cloudy,"""Cloudy""",33,63,W,270, 65 , 0.0 ,998,Saturday,04-10-2025,08:00,20251004_100752.json,2025-10-04 08:00:00
+Athenry,11,46d,Light rain ,"""Recent Drizzle """,30,61,W,270, 67 , 0.01 ,999,Saturday,04-10-2025,09:00,20251004_100752.json,2025-10-04 09:00:00
+Athenry,11,05d,Rain showers,"""Rain shower""",35,61,W,270, 68 , 0.1 ,1001,Saturday,04-10-2025,10:00,20251004_100752.json,2025-10-04 10:00:00
