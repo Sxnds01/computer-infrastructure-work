@@ -3462,3 +3462,14 @@ Athenry,6,46n,Light rain ,"""Light rain """,22,41,NW,315, 94 , 2.2 ,997,Thursday
 Athenry,6,40d,Light rain showers,"""Recent Rain""",11,-,W,270, 95 , 0.4 ,997,Thursday,23-10-2025,08:00,20251023_101016.json,2025-10-23 08:00:00
 Athenry,5,04d,Cloudy,"""Cloudy""",7,-,W,270, 95 , 0.0 ,998,Thursday,23-10-2025,09:00,20251023_101016.json,2025-10-23 09:00:00
 Athenry,5,02d,Fair,"""Fair""",6,-,W,270, 95 , 0.0 ,999,Thursday,23-10-2025,10:00,20251023_101016.json,2025-10-23 10:00:00
+Athenry,7,02n,Fair,"""Fair""",13,39,W,270, 83 , 0.0 ,999,Friday,24-10-2025,00:00,20251024_101014.json,2025-10-24 00:00:00
+Athenry,8,05n,Rain showers,"""Rain shower""",13,-,W,270, 82 , 0.01 ,998,Friday,24-10-2025,01:00,20251024_101014.json,2025-10-24 01:00:00
+Athenry,9,46n,Light rain ,"""Recent Drizzle """,19,39,W,270, 79 , 0.01 ,997,Friday,24-10-2025,02:00,20251024_101014.json,2025-10-24 02:00:00
+Athenry,9,05n,Rain showers,"""Rain shower""",22,43,W,270, 80 , 0.01 ,996,Friday,24-10-2025,03:00,20251024_101014.json,2025-10-24 03:00:00
+Athenry,9,05n,Rain showers,"""Rain shower""",20,61,W,270, 86 , 0.2 ,996,Friday,24-10-2025,04:00,20251024_101014.json,2025-10-24 04:00:00
+Athenry,9,40n,Light rain showers,"""Recent Rain""",24,50,W,270, 90 , 0.6 ,995,Friday,24-10-2025,05:00,20251024_101014.json,2025-10-24 05:00:00
+Athenry,9,40n,Light rain showers,"""Recent Rain""",20,44,W,270, 89 , 0.2 ,994,Friday,24-10-2025,06:00,20251024_101014.json,2025-10-24 06:00:00
+Athenry,10,05n,Rain showers,"""Rain shower""",15,39,W,270, 89 , 0.01 ,994,Friday,24-10-2025,07:00,20251024_101014.json,2025-10-24 07:00:00
+Athenry,9,05d,Rain showers,"""Rain shower""",11,-,W,270, 89 , 0.2 ,993,Friday,24-10-2025,08:00,20251024_101014.json,2025-10-24 08:00:00
+Athenry,9,40d,Light rain showers,"""Recent Rain""",15,-,W,270, 90 , 0.8 ,993,Friday,24-10-2025,09:00,20251024_101014.json,2025-10-24 09:00:00
+Athenry,10,05d,Rain showers,"""Rain shower""",9,-,W,270, 95 , 1.0 ,993,Friday,24-10-2025,10:00,20251024_101014.json,2025-10-24 10:00:00
