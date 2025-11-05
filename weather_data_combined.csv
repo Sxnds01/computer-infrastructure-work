@@ -3585,3 +3585,13 @@ Athenry,11,40n,Light rain showers,"""Recent Rain""",4,-,S,180, 92 , 0.1 ,998,Tue
 Athenry,10,46n,Light rain ,"""Recent Drizzle """,4,-,SE,135, 92 , 0.01 ,998,Tuesday,04-11-2025,07:00,20251104_101130.json,2025-11-04 07:00:00
 Athenry,10,02d,Fair,"""Fair""",4,-,S,180, 96 , 0.0 ,998,Tuesday,04-11-2025,08:00,20251104_101130.json,2025-11-04 08:00:00
 Athenry,10,02d,Fair,"""Fair""",4,-,S,180, 97 , 0.0 ,999,Tuesday,04-11-2025,09:00,20251104_101130.json,2025-11-04 09:00:00
+Athenry,14,04n,Cloudy,"""Cloudy""",9,-,SE,135, 96 , 0.0 ,997,Wednesday,05-11-2025,00:00,20251105_101110.json,2025-11-05 00:00:00
+Athenry,14,46n,Light rain ,"""Recent Drizzle """,9,-,E,90, 96 , 0.3 ,997,Wednesday,05-11-2025,01:00,20251105_101110.json,2025-11-05 01:00:00
+Athenry,14,10n,Heavy rain ,"""Heavy rain """,9,-,SE,135, 97 , 5.1 ,996,Wednesday,05-11-2025,02:00,20251105_101110.json,2025-11-05 02:00:00
+Athenry,14,05n,Rain showers,"""Moderate Rain shower""",6,-,SE,135, 97 , 2.6 ,996,Wednesday,05-11-2025,03:00,20251105_101110.json,2025-11-05 03:00:00
+Athenry,14,05n,Rain showers,"""Moderate Rain shower""",11,-,E,90, 97 , 1.1 ,995,Wednesday,05-11-2025,04:00,20251105_101110.json,2025-11-05 04:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",7,-,E,90, 97 , 0.3 ,995,Wednesday,05-11-2025,05:00,20251105_101110.json,2025-11-05 05:00:00
+Athenry,13,46n,Light rain ,"""Recent Drizzle """,6,-,SE,135, 97 , 0.01 ,996,Wednesday,05-11-2025,06:00,20251105_101110.json,2025-11-05 06:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",4,-,SW,225, 97 , 0.5 ,996,Wednesday,05-11-2025,07:00,20251105_101110.json,2025-11-05 07:00:00
+Athenry,13,46d,Light rain ,"""Recent Drizzle """,2,-,SE,135, 97 , 0.3 ,996,Wednesday,05-11-2025,08:00,20251105_101110.json,2025-11-05 08:00:00
+Athenry,14,15d,Fog / Mist,"""Mist""",2,-,S,180, 97 , 0.0 ,997,Wednesday,05-11-2025,09:00,20251105_101110.json,2025-11-05 09:00:00
