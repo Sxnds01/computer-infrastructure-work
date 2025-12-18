@@ -3995,3 +3995,13 @@ Athenry,9,15n,Fog / Mist,"""Mist""",22,46,S,180, 92 , 0.0 ,999,Wednesday,17-12-2
 Athenry,9,46n,Light rain ,"""Recent Drizzle """,22,43,S,180, 95 , 0.1 ,999,Wednesday,17-12-2025,07:00,20251217_101134.json,2025-12-17 07:00:00
 Athenry,10,05n,Rain showers,"""Rain shower""",24,43,S,180, 97 , 0.1 ,999,Wednesday,17-12-2025,08:00,20251217_101134.json,2025-12-17 08:00:00
 Athenry,11,05d,Rain showers,"""Moderate Rain shower""",22,43,S,180, 96 , 0.6 ,999,Wednesday,17-12-2025,09:00,20251217_101134.json,2025-12-17 09:00:00
+Athenry,7,46n,Light rain ,"""Light rain """,24,-,SW,225, 80 , 1.2 ,999,Thursday,18-12-2025,00:00,20251218_101115.json,2025-12-18 00:00:00
+Athenry,7,40n,Light rain showers,"""Recent Rain""",20,43,SW,225, 79 , 0.3 ,998,Thursday,18-12-2025,01:00,20251218_101115.json,2025-12-18 01:00:00
+Athenry,6,02n,Fair,"""Fair""",13,-,S,180, 86 , 0.0 ,999,Thursday,18-12-2025,02:00,20251218_101115.json,2025-12-18 02:00:00
+Athenry,6,46n,Light rain ,"""Recent Drizzle """,19,-,SW,225, 88 , 0.01 ,999,Thursday,18-12-2025,03:00,20251218_101115.json,2025-12-18 03:00:00
+Athenry,7,05n,Rain showers,"""Rain shower""",13,-,SW,225, 87 , 0.1 ,999,Thursday,18-12-2025,04:00,20251218_101115.json,2025-12-18 04:00:00
+Athenry,6,40n,Light rain showers,"""Recent Rain""",6,-,S,180, 90 , 0.9 ,998,Thursday,18-12-2025,05:00,20251218_101115.json,2025-12-18 05:00:00
+Athenry,6,02n,Fair,"""Fair""",11,-,S,180, 90 , 0.0 ,996,Thursday,18-12-2025,06:00,20251218_101115.json,2025-12-18 06:00:00
+Athenry,7,04n,Cloudy,"""Cloudy""",13,-,S,180, 85 , 0.0 ,995,Thursday,18-12-2025,07:00,20251218_101115.json,2025-12-18 07:00:00
+Athenry,8,04n,Cloudy,"""Cloudy""",15,-,S,180, 86 , 0.0 ,995,Thursday,18-12-2025,08:00,20251218_101115.json,2025-12-18 08:00:00
+Athenry,9,04d,Cloudy,"""Cloudy""",19,39,S,180, 85 , 0.0 ,994,Thursday,18-12-2025,09:00,20251218_101115.json,2025-12-18 09:00:00
