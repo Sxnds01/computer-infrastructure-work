@@ -4155,3 +4155,13 @@ Athenry,3,02n,Fair,"""Fair""",11,-,NW,315, 94 , 0.0 ,1013,Friday,02-01-2026,06:0
 Athenry,3,40n,Light rain showers,"""Recent Rain""",9,-,NW,315, 94 , 0.1 ,1014,Friday,02-01-2026,07:00,20260102_101032.json,2026-01-02 07:00:00
 Athenry,2,04n,Cloudy,"""Cloudy""",6,-,NW,315, 94 , 0.0 ,1015,Friday,02-01-2026,08:00,20260102_101032.json,2026-01-02 08:00:00
 Athenry,1,04d,Cloudy,"""Cloudy""",11,-,NW,315, 94 , 0.0 ,1015,Friday,02-01-2026,09:00,20260102_101032.json,2026-01-02 09:00:00
+Athenry,1,40n,Light rain showers,"""Recent Precipitation""",11,-,NW,315, 90 , 0.01 ,1018,Saturday,03-01-2026,00:00,20260103_100925.json,2026-01-03 00:00:00
+Athenry,0,02n,Fair,"""Fair""",11,-,NW,315, 92 , 0.0 ,1018,Saturday,03-01-2026,01:00,20260103_100925.json,2026-01-03 01:00:00
+Athenry,-1,02n,Fair,"""Fair""",9,-,NW,315, 94 , 0.0 ,1018,Saturday,03-01-2026,02:00,20260103_100925.json,2026-01-03 02:00:00
+Athenry,-1,02n,Fair,"""Fair""",9,-,NW,315, 92 , 0.0 ,1019,Saturday,03-01-2026,03:00,20260103_100925.json,2026-01-03 03:00:00
+Athenry,0,40n,Light rain showers,"""Precipitation""",15,-,NW,315, 94 , 0.01 ,1018,Saturday,03-01-2026,04:00,20260103_100925.json,2026-01-03 04:00:00
+Athenry,0,40n,Light rain showers,"""Recent Precipitation""",9,-,N,0, 94 , 0.01 ,1019,Saturday,03-01-2026,05:00,20260103_100925.json,2026-01-03 05:00:00
+Athenry,-1,02n,Fair,"""Fair""",7,-,NW,315, 95 , 0.0 ,1019,Saturday,03-01-2026,06:00,20260103_100925.json,2026-01-03 06:00:00
+Athenry,-1,40n,Light rain showers,"""Precipitation""",6,-,NW,315, 95 , 0.01 ,1019,Saturday,03-01-2026,07:00,20260103_100925.json,2026-01-03 07:00:00
+Athenry,-1,40n,Light rain showers,"""Recent Freezing Rain""",7,-,NW,315, 95 , 0.3 ,1020,Saturday,03-01-2026,08:00,20260103_100925.json,2026-01-03 08:00:00
+Athenry,-1,40d,Light rain showers,"""Recent Precipitation""",7,-,NW,315, 95 , 0.01 ,1020,Saturday,03-01-2026,09:00,20260103_100925.json,2026-01-03 09:00:00
