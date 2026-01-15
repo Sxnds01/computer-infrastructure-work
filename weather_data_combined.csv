@@ -4275,3 +4275,13 @@ Athenry,4,04n,Cloudy,"""Cloudy""",13,-,S,180, 83 , 0.0 ,1007,Wednesday,14-01-202
 Athenry,5,04n,Cloudy,"""Cloudy""",13,-,S,180, 79 , 0.0 ,1006,Wednesday,14-01-2026,07:00,20260114_101304.json,2026-01-14 07:00:00
 Athenry,6,04n,Cloudy,"""Cloudy""",17,-,S,180, 76 , 0.0 ,1006,Wednesday,14-01-2026,08:00,20260114_101304.json,2026-01-14 08:00:00
 Athenry,6,46d,Light rain ,"""Moderate Drizzle """,13,-,S,180, 79 , 0.01 ,1005,Wednesday,14-01-2026,09:00,20260114_101304.json,2026-01-14 09:00:00
+Athenry,4,40n,Light rain showers,"""Recent Rain""",13,-,S,180, 95 , 0.3 ,998,Thursday,15-01-2026,00:00,20260115_101213.json,2026-01-15 00:00:00
+Athenry,4,02n,Fair,"""Fair""",15,-,SW,225, 91 , 0.0 ,998,Thursday,15-01-2026,01:00,20260115_101213.json,2026-01-15 01:00:00
+Athenry,5,05n,Rain showers,"""Rain shower""",7,-,W,270, 92 , 0.01 ,998,Thursday,15-01-2026,02:00,20260115_101213.json,2026-01-15 02:00:00
+Athenry,4,04n,Cloudy,"""Cloudy""",13,-,S,180, 95 , 0.0 ,997,Thursday,15-01-2026,03:00,20260115_101213.json,2026-01-15 03:00:00
+Athenry,4,05n,Rain showers,"""Rain shower""",15,-,SW,225, 94 , 0.01 ,997,Thursday,15-01-2026,04:00,20260115_101213.json,2026-01-15 04:00:00
+Athenry,4,40n,Light rain showers,"""Recent Rain""",6,-,S,180, 94 , 0.5 ,997,Thursday,15-01-2026,05:00,20260115_101213.json,2026-01-15 05:00:00
+Athenry,4,05n,Rain showers,"""Moderate Rain shower""",9,-,S,180, 97 , 1.4 ,997,Thursday,15-01-2026,06:00,20260115_101213.json,2026-01-15 06:00:00
+Athenry,3,40n,Light rain showers,"""Recent Rain""",6,-,S,180, 95 , 0.3 ,997,Thursday,15-01-2026,07:00,20260115_101213.json,2026-01-15 07:00:00
+Athenry,3,05n,Rain showers,"""Rain shower""",2,-,S,180, 96 , 0.01 ,997,Thursday,15-01-2026,08:00,20260115_101213.json,2026-01-15 08:00:00
+Athenry,3,40d,Light rain showers,"""Recent Rain""",6,-,SE,135, 97 , 0.2 ,997,Thursday,15-01-2026,09:00,20260115_101213.json,2026-01-15 09:00:00
