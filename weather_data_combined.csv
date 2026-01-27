@@ -4395,3 +4395,13 @@ Athenry,6,04n,Cloudy,"""Cloudy""",17,-,SE,135, 91 , 0.0 ,991,Monday,26-01-2026,0
 Athenry,7,05n,Rain showers,"""Rain shower""",19,-,SE,135, 91 , 0.2 ,990,Monday,26-01-2026,07:00,20260126_101523.json,2026-01-26 07:00:00
 Athenry,7,46n,Light rain ,"""Light Drizzle """,20,-,SE,135, 91 , 0.2 ,989,Monday,26-01-2026,08:00,20260126_101523.json,2026-01-26 08:00:00
 Athenry,7,46d,Light rain ,"""Light rain """,20,-,SE,135, 93 , 0.8 ,989,Monday,26-01-2026,09:00,20260126_101523.json,2026-01-26 09:00:00
+Athenry,7,09n,Rain,"""Moderate rain """,15,-,NE,45, 97 , 4.2 ,979,Tuesday,27-01-2026,00:00,20260127_101506.json,2026-01-27 00:00:00
+Athenry,7,09n,Rain,"""Moderate rain """,22,-,NE,45, 96 , 3.7 ,977,Tuesday,27-01-2026,01:00,20260127_101506.json,2026-01-27 01:00:00
+Athenry,7,46n,Light rain ,"""Light rain """,26,-,E,90, 95 , 2.8 ,974,Tuesday,27-01-2026,02:00,20260127_101506.json,2026-01-27 02:00:00
+Athenry,6,46n,Light rain ,"""Light rain """,28,-,E,90, 92 , 2.2 ,972,Tuesday,27-01-2026,03:00,20260127_101506.json,2026-01-27 03:00:00
+Athenry,5,46n,Light rain ,"""Light rain """,37,63,E,90, 93 , 1.6 ,968,Tuesday,27-01-2026,04:00,20260127_101506.json,2026-01-27 04:00:00
+Athenry,5,46n,Light rain ,"""Light rain """,31,61,NE,45, 95 , 1.7 ,965,Tuesday,27-01-2026,05:00,20260127_101506.json,2026-01-27 05:00:00
+Athenry,6,46n,Light rain ,"""Light rain """,31,52,E,90, 96 , 1.4 ,963,Tuesday,27-01-2026,06:00,20260127_101506.json,2026-01-27 06:00:00
+Athenry,7,46n,Light rain ,"""Moderate Drizzle """,19,39,E,90, 97 , 0.7 ,963,Tuesday,27-01-2026,07:00,20260127_101506.json,2026-01-27 07:00:00
+Athenry,9,46n,Light rain ,"""Recent Drizzle """,17,-,SE,135, 87 , 0.1 ,963,Tuesday,27-01-2026,08:00,20260127_101506.json,2026-01-27 08:00:00
+Athenry,8,04d,Cloudy,"""Cloudy""",20,-,SE,135, 90 , 0.0 ,963,Tuesday,27-01-2026,09:00,20260127_101506.json,2026-01-27 09:00:00
