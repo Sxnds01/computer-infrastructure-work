@@ -4615,3 +4615,13 @@ Athenry,-2,02n,Fair,"""Fair""",6,-,E,90, 96 , 0.0 ,1016,Tuesday,17-02-2026,06:00
 Athenry,-1,02n,Fair,"""Fair""",6,-,E,90, 96 , 0.0 ,1016,Tuesday,17-02-2026,07:00,20260217_103332.json,2026-02-17 07:00:00
 Athenry,-1,02d,Fair,"""Fair""",7,-,E,90, 95 , 0.0 ,1016,Tuesday,17-02-2026,08:00,20260217_103332.json,2026-02-17 08:00:00
 Athenry,0,04d,Cloudy,"""Cloudy""",11,-,E,90, 93 , 0.0 ,1016,Tuesday,17-02-2026,09:00,20260217_103332.json,2026-02-17 09:00:00
+Athenry,5,46n,Light rain ,"""Recent Drizzle """,22,46,SE,135, 80 , 0.01 ,1001,Wednesday,18-02-2026,00:00,20260218_103127.json,2026-02-18 00:00:00
+Athenry,5,04n,Cloudy,"""Cloudy""",20,44,SE,135, 86 , 0.0 ,1000,Wednesday,18-02-2026,01:00,20260218_103127.json,2026-02-18 01:00:00
+Athenry,5,15n,Fog / Mist,"""Mist""",22,-,SE,135, 91 , 0.0 ,999,Wednesday,18-02-2026,02:00,20260218_103127.json,2026-02-18 02:00:00
+Athenry,5,40n,Light rain showers,"""Recent Rain""",22,41,SE,135, 91 , 0.01 ,997,Wednesday,18-02-2026,03:00,20260218_103127.json,2026-02-18 03:00:00
+Athenry,6,46n,Light rain ,"""Recent Drizzle """,24,50,SE,135, 88 , 0.1 ,996,Wednesday,18-02-2026,04:00,20260218_103127.json,2026-02-18 04:00:00
+Athenry,6,05n,Rain showers,"""Rain shower""",26,54,SE,135, 89 , 0.01 ,995,Wednesday,18-02-2026,05:00,20260218_103127.json,2026-02-18 05:00:00
+Athenry,6,46n,Light rain ,"""Recent Drizzle """,26,48,E,90, 90 , 0.01 ,993,Wednesday,18-02-2026,06:00,20260218_103127.json,2026-02-18 06:00:00
+Athenry,6,05n,Rain showers,"""Rain shower""",28,46,SE,135, 92 , 0.01 ,993,Wednesday,18-02-2026,07:00,20260218_103127.json,2026-02-18 07:00:00
+Athenry,6,04d,Cloudy,"""Cloudy""",24,-,E,90, 95 , 0.0 ,992,Wednesday,18-02-2026,08:00,20260218_103127.json,2026-02-18 08:00:00
+Athenry,6,40d,Light rain showers,"""Recent Rain""",19,-,E,90, 95 , 0.2 ,991,Wednesday,18-02-2026,09:00,20260218_103127.json,2026-02-18 09:00:00
