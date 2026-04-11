@@ -5166,3 +5166,15 @@ Athenry,5,04d,Cloudy,"""Cloudy""",17,-,SE,135, 73 , 0.0 ,1015,Friday,10-04-2026,
 Athenry,5,46d,Light rain ,"""Light rain """,15,-,S,180, 83 , 0.1 ,1015,Friday,10-04-2026,09:00,20260410_104123.json,2026-04-10 09:00:00
 Athenry,5,46d,Light rain ,"""Light rain """,17,-,S,180, 88 , 0.4 ,1014,Friday,10-04-2026,10:00,20260410_104123.json,2026-04-10 10:00:00
 Athenry,5,46d,Light rain ,"""Light rain """,26,-,SE,135, 88 , 0.3 ,1012,Friday,10-04-2026,11:00,20260410_104123.json,2026-04-10 11:00:00
+Athenry,4,46n,Light rain ,"""Light rain """,19,-,S,180, 89 , 1.3 ,996,Saturday,11-04-2026,00:00,20260411_102201.json,2026-04-11 00:00:00
+Athenry,3,05n,Rain showers,"""Rain shower""",19,41,S,180, 89 , 0.2 ,996,Saturday,11-04-2026,01:00,20260411_102201.json,2026-04-11 01:00:00
+Athenry,3,05n,Rain showers,"""Rain shower""",15,-,S,180, 90 , 0.2 ,995,Saturday,11-04-2026,02:00,20260411_102201.json,2026-04-11 02:00:00
+Athenry,2,40n,Light rain showers,"""Recent Rain""",19,43,S,180, 88 , 0.4 ,995,Saturday,11-04-2026,03:00,20260411_102201.json,2026-04-11 03:00:00
+Athenry,3,05n,Rain showers,"""Rain shower""",22,43,S,180, 87 , 0.01 ,994,Saturday,11-04-2026,04:00,20260411_102201.json,2026-04-11 04:00:00
+Athenry,2,02n,Fair,"""Fair""",24,-,S,180, 84 , 0.0 ,993,Saturday,11-04-2026,05:00,20260411_102201.json,2026-04-11 05:00:00
+Athenry,3,40d,Light rain showers,"""Recent Rain""",30,-,S,180, 84 , 0.01 ,992,Saturday,11-04-2026,06:00,20260411_102201.json,2026-04-11 06:00:00
+Athenry,3,46d,Light rain ,"""Light rain """,30,52,SW,225, 88 , 0.3 ,992,Saturday,11-04-2026,07:00,20260411_102201.json,2026-04-11 07:00:00
+Athenry,4,40d,Light rain showers,"""Recent Rain""",24,48,S,180, 91 , 0.9 ,992,Saturday,11-04-2026,08:00,20260411_102201.json,2026-04-11 08:00:00
+Athenry,6,02d,Fair,"""Fair""",35,-,SW,225, 84 , 0.0 ,992,Saturday,11-04-2026,09:00,20260411_102201.json,2026-04-11 09:00:00
+Athenry,7,02d,Fair,"""Fair""",28,52,SW,225, 81 , 0.0 ,991,Saturday,11-04-2026,10:00,20260411_102201.json,2026-04-11 10:00:00
+Athenry,8,46d,Light rain ,"""Recent Drizzle """,30,63,SW,225, 77 , 0.2 ,991,Saturday,11-04-2026,11:00,20260411_102201.json,2026-04-11 11:00:00
