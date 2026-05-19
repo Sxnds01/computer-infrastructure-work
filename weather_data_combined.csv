@@ -5637,3 +5637,17 @@ Athenry,10,04d,Cloudy,"""Cloudy""",7,-,S,180, 81 , 0.0 ,1007,Monday,18-05-2026,1
 Athenry,11,04d,Cloudy,"""Cloudy""",11,-,SE,135, 72 , 0.0 ,1006,Monday,18-05-2026,11:00,20260518_125753.json,2026-05-18 11:00:00
 Athenry,11,46d,Light rain ,"""Light Drizzle """,11,-,S,180, 66 , 0.01 ,1006,Monday,18-05-2026,12:00,20260518_125753.json,2026-05-18 12:00:00
 Athenry,11,05d,Rain showers,"""Rain shower""",13,-,S,180, 82 , 0.2 ,1005,Monday,18-05-2026,13:00,20260518_125753.json,2026-05-18 13:00:00
+Athenry,12,46n,Light rain ,"""Heavy Drizzle """,7,-,S,180, 97 , 0.1 ,996,Tuesday,19-05-2026,00:00,20260519_123227.json,2026-05-19 00:00:00
+Athenry,12,46n,Light rain ,"""Moderate Drizzle """,9,-,SW,225, 97 , 1.8 ,995,Tuesday,19-05-2026,01:00,20260519_123227.json,2026-05-19 01:00:00
+Athenry,11,40n,Light rain showers,"""Recent Rain""",7,-,SW,225, 97 , 0.2 ,995,Tuesday,19-05-2026,02:00,20260519_123227.json,2026-05-19 02:00:00
+Athenry,11,04n,Cloudy,"""Cloudy""",7,-,S,180, 97 , 0.0 ,994,Tuesday,19-05-2026,03:00,20260519_123227.json,2026-05-19 03:00:00
+Athenry,11,05n,Rain showers,"""Moderate Rain shower""",7,-,S,180, 96 , 0.4 ,994,Tuesday,19-05-2026,04:00,20260519_123227.json,2026-05-19 04:00:00
+Athenry,11,40d,Light rain showers,"""Recent Rain""",9,-,S,180, 95 , 0.01 ,994,Tuesday,19-05-2026,05:00,20260519_123227.json,2026-05-19 05:00:00
+Athenry,11,46d,Light rain ,"""Light rain """,11,-,S,180, 95 , 0.3 ,994,Tuesday,19-05-2026,06:00,20260519_123227.json,2026-05-19 06:00:00
+Athenry,11,05d,Rain showers,"""Moderate Rain shower""",7,-,S,180, 96 , 0.8 ,994,Tuesday,19-05-2026,07:00,20260519_123227.json,2026-05-19 07:00:00
+Athenry,12,46d,Light rain ,"""Moderate Drizzle """,13,-,SW,225, 96 , 0.7 ,994,Tuesday,19-05-2026,08:00,20260519_123227.json,2026-05-19 08:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",19,41,SW,225, 93 , 1.3 ,995,Tuesday,19-05-2026,09:00,20260519_123227.json,2026-05-19 09:00:00
+Athenry,12,40d,Light rain showers,"""Recent Rain""",17,-,SW,225, 85 , 0.5 ,995,Tuesday,19-05-2026,10:00,20260519_123227.json,2026-05-19 10:00:00
+Athenry,14,04d,Cloudy,"""Cloudy""",19,-,S,180, 78 , 0.0 ,995,Tuesday,19-05-2026,11:00,20260519_123227.json,2026-05-19 11:00:00
+Athenry,13,40d,Light rain showers,"""Recent Rain""",15,-,SW,225, 87 , 1.7 ,995,Tuesday,19-05-2026,12:00,20260519_123227.json,2026-05-19 12:00:00
+Athenry,12,05d,Rain showers,"""Moderate Rain shower""",22,43,SW,225, 90 , 1.0 ,996,Tuesday,19-05-2026,13:00,20260519_123227.json,2026-05-19 13:00:00
