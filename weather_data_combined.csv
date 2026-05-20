@@ -5651,3 +5651,16 @@ Athenry,12,40d,Light rain showers,"""Recent Rain""",17,-,SW,225, 85 , 0.5 ,995,T
 Athenry,14,04d,Cloudy,"""Cloudy""",19,-,S,180, 78 , 0.0 ,995,Tuesday,19-05-2026,11:00,20260519_123227.json,2026-05-19 11:00:00
 Athenry,13,40d,Light rain showers,"""Recent Rain""",15,-,SW,225, 87 , 1.7 ,995,Tuesday,19-05-2026,12:00,20260519_123227.json,2026-05-19 12:00:00
 Athenry,12,05d,Rain showers,"""Moderate Rain shower""",22,43,SW,225, 90 , 1.0 ,996,Tuesday,19-05-2026,13:00,20260519_123227.json,2026-05-19 13:00:00
+Athenry,11,46n,Light rain ,"""Recent Drizzle """,13,-,W,270, 92 , 0.01 ,1003,Wednesday,20-05-2026,00:00,20260520_121259.json,2026-05-20 00:00:00
+Athenry,11,46n,Light rain ,"""Light rain """,20,-,SW,225, 90 , 0.01 ,1004,Wednesday,20-05-2026,01:00,20260520_121259.json,2026-05-20 01:00:00
+Athenry,11,40n,Light rain showers,"""Recent Rain""",19,-,SW,225, 89 , 0.9 ,1004,Wednesday,20-05-2026,02:00,20260520_121259.json,2026-05-20 02:00:00
+Athenry,11,04n,Cloudy,"""Cloudy""",19,-,SW,225, 87 , 0.0 ,1005,Wednesday,20-05-2026,03:00,20260520_121259.json,2026-05-20 03:00:00
+Athenry,11,04n,Cloudy,"""Cloudy""",22,43,SW,225, 87 , 0.0 ,1005,Wednesday,20-05-2026,04:00,20260520_121259.json,2026-05-20 04:00:00
+Athenry,11,04d,Cloudy,"""Cloudy""",22,43,SW,225, 91 , 0.0 ,1006,Wednesday,20-05-2026,05:00,20260520_121259.json,2026-05-20 05:00:00
+Athenry,11,05d,Rain showers,"""Rain shower""",22,41,SW,225, 94 , 0.01 ,1007,Wednesday,20-05-2026,06:00,20260520_121259.json,2026-05-20 06:00:00
+Athenry,11,05d,Rain showers,"""Rain shower""",20,43,SW,225, 95 , 0.1 ,1008,Wednesday,20-05-2026,07:00,20260520_121259.json,2026-05-20 07:00:00
+Athenry,12,46d,Light rain ,"""Recent Drizzle """,17,39,W,270, 95 , 0.1 ,1009,Wednesday,20-05-2026,08:00,20260520_121259.json,2026-05-20 08:00:00
+Athenry,12,04d,Cloudy,"""Cloudy""",17,-,W,270, 91 , 0.0 ,1010,Wednesday,20-05-2026,09:00,20260520_121259.json,2026-05-20 09:00:00
+Athenry,13,04d,Cloudy,"""Cloudy""",15,-,W,270, 86 , 0.0 ,1011,Wednesday,20-05-2026,10:00,20260520_121259.json,2026-05-20 10:00:00
+Athenry,13,04d,Cloudy,"""Cloudy""",19,-,W,270, 80 , 0.0 ,1012,Wednesday,20-05-2026,11:00,20260520_121259.json,2026-05-20 11:00:00
+Athenry,13,04d,Cloudy,"""Cloudy""",19,-,SW,225, 81 , 0.0 ,1013,Wednesday,20-05-2026,12:00,20260520_121259.json,2026-05-20 12:00:00
