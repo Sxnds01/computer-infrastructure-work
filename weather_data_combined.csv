@@ -5814,3 +5814,19 @@ Athenry,16,04d,Cloudy,"""Cloudy""",19,-,W,270, 77 , 0.0 ,1004,Tuesday,02-06-2026
 Athenry,15,04d,Cloudy,"""Cloudy""",17,-,W,270, 79 , 0.0 ,1005,Tuesday,02-06-2026,12:00,20260602_134430.json,2026-06-02 12:00:00
 Athenry,15,04d,Cloudy,"""Cloudy""",19,-,W,270, 74 , 0.0 ,1005,Tuesday,02-06-2026,13:00,20260602_134430.json,2026-06-02 13:00:00
 Athenry,14,05d,Rain showers,"""Rain shower""",17,-,W,270, 85 , 0.01 ,1005,Tuesday,02-06-2026,14:00,20260602_134430.json,2026-06-02 14:00:00
+Athenry,12,04n,Cloudy,"""Cloudy""",9,-,SW,225, 86 , 0.0 ,1005,Wednesday,03-06-2026,00:00,20260603_141749.json,2026-06-03 00:00:00
+Athenry,11,46n,Light rain ,"""Recent Drizzle """,9,-,S,180, 95 , 0.01 ,1003,Wednesday,03-06-2026,01:00,20260603_141749.json,2026-06-03 01:00:00
+Athenry,11,04n,Cloudy,"""Cloudy""",9,-,S,180, 95 , 0.0 ,1002,Wednesday,03-06-2026,02:00,20260603_141749.json,2026-06-03 02:00:00
+Athenry,11,05n,Rain showers,"""Rain shower""",9,-,S,180, 92 , 0.01 ,1000,Wednesday,03-06-2026,03:00,20260603_141749.json,2026-06-03 03:00:00
+Athenry,11,05n,Rain showers,"""Rain shower""",15,-,S,180, 90 , 0.1 ,997,Wednesday,03-06-2026,04:00,20260603_141749.json,2026-06-03 04:00:00
+Athenry,11,46d,Light rain ,"""Light rain """,15,-,SE,135, 95 , 3.0 ,995,Wednesday,03-06-2026,05:00,20260603_141749.json,2026-06-03 05:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",17,-,S,180, 94 , 0.3 ,993,Wednesday,03-06-2026,06:00,20260603_141749.json,2026-06-03 06:00:00
+Athenry,12,05d,Rain showers,"""Rain shower""",19,-,SW,225, 96 , 0.3 ,993,Wednesday,03-06-2026,07:00,20260603_141749.json,2026-06-03 07:00:00
+Athenry,13,46d,Light rain ,"""Recent Drizzle """,26,-,SW,225, 94 , 0.4 ,992,Wednesday,03-06-2026,08:00,20260603_141749.json,2026-06-03 08:00:00
+Athenry,14,46d,Light rain ,"""Recent Drizzle """,30,54,SW,225, 89 , 0.1 ,991,Wednesday,03-06-2026,09:00,20260603_141749.json,2026-06-03 09:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",24,52,SW,225, 88 , 0.0 ,991,Wednesday,03-06-2026,10:00,20260603_141749.json,2026-06-03 10:00:00
+Athenry,14,40d,Light rain showers,"""Recent Rain""",26,57,W,270, 87 , 0.5 ,990,Wednesday,03-06-2026,11:00,20260603_141749.json,2026-06-03 11:00:00
+Athenry,14,04d,Cloudy,"""Cloudy""",30,56,SW,225, 77 , 0.0 ,990,Wednesday,03-06-2026,12:00,20260603_141749.json,2026-06-03 12:00:00
+Athenry,14,40d,Light rain showers,"""Recent Rain""",35,59,SW,225, 85 , 2.5 ,990,Wednesday,03-06-2026,13:00,20260603_141749.json,2026-06-03 13:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",28,56,W,270, 81 , 0.0 ,989,Wednesday,03-06-2026,14:00,20260603_141749.json,2026-06-03 14:00:00
+Athenry,14,46d,Light rain ,"""Recent Drizzle """,30,56,SW,225, 87 , 0.1 ,989,Wednesday,03-06-2026,15:00,20260603_141749.json,2026-06-03 15:00:00
