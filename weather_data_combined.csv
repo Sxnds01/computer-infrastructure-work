@@ -6842,3 +6842,15 @@ Athenry,14,05d,Rain showers,"""Rain shower""",9,-,W,270, 94 , 0.5 ,1004,Wednesda
 Athenry,15,04d,Cloudy,"""Cloudy""",11,-,W,270, 90 , 0.0 ,1004,Wednesday,19-08-2026,09:00,20260819_101518.json,2026-08-19 09:00:00
 Athenry,16,04d,Cloudy,"""Cloudy""",15,-,W,270, 87 , 0.0 ,1004,Wednesday,19-08-2026,10:00,20260819_101518.json,2026-08-19 10:00:00
 Athenry,17,40d,Light rain showers,"""Recent Rain""",15,41,W,270, 87 , 0.8 ,1003,Wednesday,19-08-2026,11:00,20260819_101518.json,2026-08-19 11:00:00
+Athenry,14,46n,Light rain ,"""Recent Drizzle """,15,-,NW,315, 96 , 0.01 ,1005,Thursday,20-08-2026,00:00,20260820_101702.json,2026-08-20 00:00:00
+Athenry,13,05n,Rain showers,"""Rain shower""",19,-,NW,315, 95 , 0.01 ,1005,Thursday,20-08-2026,01:00,20260820_101702.json,2026-08-20 01:00:00
+Athenry,13,04n,Cloudy,"""Cloudy""",17,-,NW,315, 94 , 0.0 ,1006,Thursday,20-08-2026,02:00,20260820_101702.json,2026-08-20 02:00:00
+Athenry,13,04n,Cloudy,"""Cloudy""",17,-,NW,315, 95 , 0.0 ,1006,Thursday,20-08-2026,03:00,20260820_101702.json,2026-08-20 03:00:00
+Athenry,13,09n,Rain,"""Moderate rain """,20,-,NW,315, 96 , 0.4 ,1007,Thursday,20-08-2026,04:00,20260820_101702.json,2026-08-20 04:00:00
+Athenry,13,40n,Light rain showers,"""Recent Rain""",17,-,NW,315, 97 , 0.1 ,1007,Thursday,20-08-2026,05:00,20260820_101702.json,2026-08-20 05:00:00
+Athenry,12,46d,Light rain ,"""Light rain """,19,-,NW,315, 94 , 0.01 ,1008,Thursday,20-08-2026,06:00,20260820_101702.json,2026-08-20 06:00:00
+Athenry,12,04d,Cloudy,"""Cloudy""",19,-,NW,315, 94 , 0.0 ,1009,Thursday,20-08-2026,07:00,20260820_101702.json,2026-08-20 07:00:00
+Athenry,12,02d,Fair,"""Fair""",19,-,NW,315, 94 , 0.0 ,1009,Thursday,20-08-2026,08:00,20260820_101702.json,2026-08-20 08:00:00
+Athenry,14,46d,Light rain ,"""Light rain """,26,-,N,0, 88 , 0.01 ,1010,Thursday,20-08-2026,09:00,20260820_101702.json,2026-08-20 09:00:00
+Athenry,15,46d,Light rain ,"""Recent Drizzle """,26,52,N,0, 76 , 0.01 ,1011,Thursday,20-08-2026,10:00,20260820_101702.json,2026-08-20 10:00:00
+Athenry,15,04d,Cloudy,"""Cloudy""",19,-,N,0, 74 , 0.0 ,1012,Thursday,20-08-2026,11:00,20260820_101702.json,2026-08-20 11:00:00
