@@ -7818,3 +7818,19 @@ Athenry,12,04d,Cloudy,"""Cloudy""",22,-,SE,135, 71 , 0.0 ,1004,Tuesday,20-10-202
 Athenry,13,04d,Cloudy,"""Cloudy""",17,-,S,180, 73 , 0.0 ,1003,Tuesday,20-10-2026,13:00,20261020_143222.json,2026-10-20 13:00:00
 Athenry,13,04d,Cloudy,"""Cloudy""",20,-,S,180, 70 , 0.0 ,1002,Tuesday,20-10-2026,14:00,20261020_143222.json,2026-10-20 14:00:00
 Athenry,13,04d,Cloudy,"""Cloudy""",17,-,SE,135, 74 , 0.0 ,1001,Tuesday,20-10-2026,15:00,20261020_143222.json,2026-10-20 15:00:00
+Athenry,8,05n,Rain showers,"""Rain shower""",37,57,NW,315, 88 , 0.1 ,997,Wednesday,21-10-2026,00:00,20261021_144334.json,2026-10-21 00:00:00
+Athenry,8,05n,Rain showers,"""Rain shower""",31,57,NW,315, 87 , 0.01 ,998,Wednesday,21-10-2026,01:00,20261021_144334.json,2026-10-21 01:00:00
+Athenry,8,46n,Light rain ,"""Recent Drizzle """,31,54,NW,315, 82 , 0.1 ,999,Wednesday,21-10-2026,02:00,20261021_144334.json,2026-10-21 02:00:00
+Athenry,8,05n,Rain showers,"""Rain shower""",19,54,W,270, 87 , 0.01 ,1000,Wednesday,21-10-2026,03:00,20261021_144334.json,2026-10-21 03:00:00
+Athenry,7,05n,Rain showers,"""Rain shower""",22,-,NW,315, 91 , 0.3 ,1000,Wednesday,21-10-2026,04:00,20261021_144334.json,2026-10-21 04:00:00
+Athenry,7,05n,Rain showers,"""Rain shower""",15,-,NW,315, 88 , 0.01 ,1001,Wednesday,21-10-2026,05:00,20261021_144334.json,2026-10-21 05:00:00
+Athenry,7,05n,Rain showers,"""Rain shower""",19,41,W,270, 84 , 0.01 ,1001,Wednesday,21-10-2026,06:00,20261021_144334.json,2026-10-21 06:00:00
+Athenry,7,46n,Light rain ,"""Recent Drizzle """,17,50,W,270, 83 , 0.01 ,1002,Wednesday,21-10-2026,07:00,20261021_144334.json,2026-10-21 07:00:00
+Athenry,7,46d,Light rain ,"""Recent Drizzle """,15,41,W,270, 82 , 0.01 ,1002,Wednesday,21-10-2026,08:00,20261021_144334.json,2026-10-21 08:00:00
+Athenry,7,40d,Light rain showers,"""Recent Rain""",15,44,W,270, 89 , 0.2 ,1003,Wednesday,21-10-2026,09:00,20261021_144334.json,2026-10-21 09:00:00
+Athenry,8,05d,Rain showers,"""Rain shower""",17,-,W,270, 84 , 0.1 ,1004,Wednesday,21-10-2026,10:00,20261021_144334.json,2026-10-21 10:00:00
+Athenry,10,02d,Fair,"""Fair""",15,-,NW,315, 71 , 0.0 ,1004,Wednesday,21-10-2026,11:00,20261021_144334.json,2026-10-21 11:00:00
+Athenry,11,02d,Fair,"""Fair""",20,43,W,270, 65 , 0.0 ,1004,Wednesday,21-10-2026,12:00,20261021_144334.json,2026-10-21 12:00:00
+Athenry,11,,N/A,,NA,-,-99,0,-99,,1005,Wednesday,21-10-2026,13:00,20261021_144334.json,2026-10-21 13:00:00
+Athenry,11,40d,Light rain showers,"""Recent Rain""",20,-,W,270, 66 , 0.01 ,1005,Wednesday,21-10-2026,14:00,20261021_144334.json,2026-10-21 14:00:00
+Athenry,11,02d,Fair,"""Fair""",17,-,W,270, 65 , 0.0 ,1004,Wednesday,21-10-2026,15:00,20261021_144334.json,2026-10-21 15:00:00
